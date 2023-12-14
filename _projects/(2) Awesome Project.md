@@ -23,3 +23,6 @@ Through exploratory data analysis, factor analysis, and machine learning optimiz
 <p class="text-center">
 {% include elements/button.html link="https://github.com/Jeff-Barlow-Spady/edm-svi" text="View on GitHub" %}
 </p>
+<p class="text-center">
+{% include elements/button.html link="https://edm-svi-map.streamlit.app" text="Check Out The App" %}
+</p>
