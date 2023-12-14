@@ -18,7 +18,7 @@ The primary goal of this analysis was to develop a comprehensive understanding o
 
 Through exploratory data analysis, factor analysis, and machine learning optimization techniques, I developed a statistical model to score neighbourhood vulnerability in Edmonton. Key metrics like income, education, housing, and health were reduced to underlying latent factors that determine neighbourhood vulnerability. Neighbourhoods were then scored based on their performance across these factors. The model achieved excellent predictive performance and provides meaningful insights into neighbourhood characteristics. With further refinement, this scoring system could support strategic planning and policymaking to address social inequities at the local level.
 
-<iframe src="https://edm-svi-map.streamlit.app/?embed_options=show_footer,show_colored_line,show_padding,show_toolbar" width="100%" height="500px" frameborder="0" scrolling="yes"></iframe>
+<https://edm-svi-map.streamlit.app/?embed_options=show_footer,show_colored_line,show_padding,show_toolbar>
 
 <p class="text-center">
 {% include elements/button.html link="https://github.com/Jeff-Barlow-Spady/edm-svi" text="View on GitHub" %}
