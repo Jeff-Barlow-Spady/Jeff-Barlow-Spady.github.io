@@ -1,11 +1,35 @@
-- name: HTML5/CSS3
+- name: SQL
   percentage: 90
   color: danger
 
-- name: Go
+- name: Excel
   percentage: 80
   color:
 
 - name: Python
   percentage: 70
   color: secondary
+
+- name: R
+  percentage: 65
+  color:
+
+- name: Pandas
+  percentage: 75
+  color:
+
+- name: NumPy
+  percentage: 70
+  color:
+
+- name: Matplotlib
+  percentage: 65
+  color:
+
+- name: Scikit-learn
+  percentage: 60
+  color:
+
+- name: TensorFlow
+  percentage: 50
+  color:
