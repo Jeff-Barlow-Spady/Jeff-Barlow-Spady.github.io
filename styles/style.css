@@ -1,2 +1,48 @@
 
 /* Tailwind CSS is used via CDN, custom styles can be added here */
+<style>
+        /* Custom CSS styles */
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        nav {
+            background-color: #f8f8f8;
+            padding: 10px;
+        }
+
+        nav a {
+            color: #333;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        nav a:hover {
+            color: #007bff;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 16px;
+            color: #555;
+        }
+
+        footer {
+            background-color: #f8f8f8;
+            padding: 10px;
+            text-align: center;
+        }
+
+        footer p {
+            color: #888;
+            font-size: 14px;
+        }
+    </style>
