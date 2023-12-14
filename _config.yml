@@ -1,9 +1,9 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : My Portfolio Site
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      I create data products that help people make informed decisions,
+                      promote dignity, equity, and empower positive change.
+                      Check out my work, let me know what you think.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : Jeff-Barlow-Spady/Jeff-Barlow-Spady.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : Jeff-Barlow-Spady/Jeff-Barlow-Spady.github.io
